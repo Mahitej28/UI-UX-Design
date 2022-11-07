@@ -3,10 +3,10 @@
 
 <br><br>Bibliophile is an online book store app, designed for book lovers to help them discover the world of books and to assist authors in selling their book. We aim to provide readers and authors with a single platform to publish, sell, purchase, read and advance their knowledge through this app. The UI/UX of this App is being designed by taking into considerations the demands of End Users and hence it consists of lot of features like:
 
-- *Customize Search*
-- *Voice over search*
-- *Translation to different languages*
-- *Easy in-app billing procedure*
+- **Customize Search**
+- **Voice over search**
+- **Translation to different languages**
+- **Easy in-app billing procedure**
 
 The app exposes the user to a wide range of book genres, opening up boundless seas of information and amusement.
 
